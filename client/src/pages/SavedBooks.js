@@ -10,7 +10,7 @@ import { removeBookId } from '../utils/localStorage';
 import { QUERY_ME } from '../utils/queries';
 
 const SavedBooks = () => {
-  debugger;
+  
   const [userData, setUserData] = useState({});
   const [deleteBook] = useMutation(DELETE_BOOK);
 
