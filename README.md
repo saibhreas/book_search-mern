@@ -10,7 +10,7 @@ Show ability to personalize data in a RESTful API and perform:
     * Submit Search Button
     * Login/Signup
     * Search for Book
-  * OnClick Serarch for Book
+  * OnClick Serarch for Bookgood.  we need to do some refactoring 
     * input field available to begin search
   * OnClick Submit Search
     * Search is executed and rendered
