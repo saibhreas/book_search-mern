@@ -1,17 +1,13 @@
+//pulled from C:\Users\kern\Desktop\RUT-VIRT-FSF-FT-04-2021-U-LOL\21-MERN\01-Activities\25-Ins_Resolver-Context\server\schemas\resolvers.js.  
+
 const { AuthenticationError } = require('apollo-server-express');
-const { Profile } = require('../models');
+const { User, Book } = require('../models');
+const { saveBook, deleteBook, createUser, login } = require('../controllers/user-controller');
 const { signToken } = require('../utils/auth');//server util/auth
 
 const resolvers = {
   Query: {
-    profiles: async () => {
-      return Profile.find();
-    },
-
-    profile: async (parent, { profileId }) => {
-      return Profile.findOne({ _id: profileId });//like express req.body
-    },
-    // By adding context to our query, we can retrieve the logged in user without specifically searching for them
+      
     me: async (parent, args, context) => {//context is auth middleseare retunred user  req.user becomes authentication
       if (context.user) {
         return Profile.findOne({ _id: context.user._id });
