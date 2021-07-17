@@ -71,7 +71,7 @@ const SearchBooks = () => {
     }
 
     try {
-      const mutationResponse = await saveBook({
+      await saveBook({
         variables: {
           book: bookToSave
         }
