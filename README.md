@@ -17,15 +17,17 @@ It is up to the student, to go and practice.  If the student, continues to trip 
     Tri pl et verses Diga da is all it takes to change 1 2 3 into the familiar reel of an Irish jig “Trip pl let Trip pl let Trip pl let = a jig.  It can also be Waltz (a mysql db with js and html)
     Diga da is a march. Da Da Da Digada  Digada = the imperial march from Star wars, miles off from the waltz or the reel. 
     
-I*f the music new student cannot read the difference in the sheet music,* sending them back home to practice without demonstrating the difference, the result will actually make the corrections harder over time.  Because the student is practicing, creating muscle memory; ingraining wrong muscle memory over and over again, it will be harder to root out.  Practice alone does not make a perfect performance
+*If the music new student cannot read the difference in the sheet music,* sending them back home to practice without demonstrating the difference, actually make the corrections harder over time.  Because the student is practicing, creating muscle memory; ingraining wrong muscle memory over and over again  *It will be harder to root out.*  
+Practice alone does not make a perfect performance
 
 **Practice does not make perfect.**  Perfect practice makes perfect execution. The practice has to be nurtured, corrected early, reinforced, and critiqued.  That makes good practices, good learning connection, and good product.
 
-## *The fallacy of “I can’t give you the answer”*
+## *The fallacy of: “I can’t give you the answer”*
 
-On the simplest of terms, you cannot give the student the answer.  To use a proverb *“You can lead a horse to water, but you can’t make them drink”* works here, but needs a little deconstruction.
+**On the simplest of terms, you cannot give the student the answer.**  
+The proverb *“You can lead a horse to water, but you can’t make them drink”* works here, but needs a little deconstruction.
 
-The water is knowledge.  You can bring the students to the water’s edge, you can throw them in, but you can’t make them drink.  
+The water is knowledge. You can bring the students to the water’s edge, you can throw them in, but you can’t make them drink.  
 
 If a student does not want to learn, does not have the interest or the drive, then nothing the instructor can do will make a difference. 
 
@@ -38,9 +40,9 @@ The student just becomes dehydrated, wandering the same patch not understanding 
 
 The result:
 
-the student is chided for waiting until becoming unnecessarily dehydrated, told to come sooner for help before reaching a critical point.  
+The student is chided for waiting until becoming unnecessarily dehydrated, and expressly told to come sooner for help before reaching a critical point.  
 
-However, the response is the same—
+However, the response is the same— and help isn't rendered.
 * it’s all in the map, or in the sheet music.  
 * “I can’t give you the answer.”   
 
@@ -51,32 +53,36 @@ Consequently, the recursive nature of the question-answer-response loop causes f
 * The student remains dehydrated, struggling to keep up, and resentful for being chided for asking for help.
 
 
-### The water is the answer.
+## The water is the answer.  *THE WATER IS THE ANSWER*
 
-What the loop misses are teaching moments.  It also misses the mark of what the answer is.  **The water is the answer./ The solution to the programing question is the answer**  
+What the loop misses are teaching moments.  It also misses the mark of what the answer is.  **The water is the answer./ The solution to the programing question is TO DIRECTLY ANSWER THE QUESTION**  
 
-We all want to drink from the river of knowledge.  The dedicated student is going to drink, retrace the steps (maybe small steps at first from the water’s edge) but will complete the path backwards and forwards to the water until it can be completed in the dark, without a map.  
+We all want to drink from the river of knowledge.  The dedicated student is going to drink, retrace the steps (maybe small steps at first from the water’s edge) but will complete the path backwards and forwards to the water until it can be completed in the dark, without a map.
+
 The music student, will practice over and over again to get the performance right, if they can hear the difference, and know what the right way sounds like, *and ingrain the right way.*
 
-**You can give the programming student the solution to an exercise.**  You can point directly to the error, and it’s ok.  
+### **You can give the programming student the solution to an exercise.**  
+You can point directly to the error, and it’s ok.  (IT IS A CHOICE, a choice to teach or not)
 
 **Because the real student will rework that point, backwards and forwards, for ownership and knowledge.** 
 
   * You are not cheating the student.
   * You are not giving the store away.
-    *You are just giving a student (where the map was insufficient), a chance to learn, to take ownership of the material, and make it a building block for further knowledge and growth.
+    *You are just giving a student (where the map was insufficient), a chance to learn, 
+    
+    a chance to take ownership of the material, and make it a building block for further knowledge and growth.
 
 # In the future PLEASE PLEASE PLEASE
 
 If you have a student that is struggling:
 
   * the student shows they are putting in the time, 
-  * they are asking for a drink of the water or asking you to sing the part –
+  * they are asking for a drink of the water or asking you to sing the part , asking for a problems solution –
     * ## just do it.  
     
 *They aren’t stealing, they paid for the lesson..*  
 
-If however you feel that it is pedagogically incorrect, then don’t chide the student for asking for help.  Just be open, honest, and upfront, communicate clearly, the answers are not to be found here.  
+If however you feel that it is pedagogically incorrect to give a solution to a problem, then don’t chide the student for asking for help.  Just be open, honest, and upfront; communicate clearly the answers are not to be found here.  
 
 The student will have to find another place to learn, and the resentment level on both parties will be remedied.
 
