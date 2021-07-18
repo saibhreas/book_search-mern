@@ -13,11 +13,11 @@ It is up to the student, to go and practice.  If the student, continues to trip 
 
 *That is not giving the student the answer.*  The student in practice, by practice, of the correct method develops the muscle memory, and this is the answer. 
 
-* Triplets- 3 notes strung together with slightly different accents (style markings) make the difference between and Irish jig, and a Star Wars like march (the difference between a NoSQL simple database and an Apollo/Graphql/Express Full stack app with REDUX.  
+* Triplets- 3 notes strung together with slightly different accents (style markings) make the difference between an Irish jig, and a Star Wars like march (the difference between a NoSQL simple database and an Apollo/Graphql/Express Full stack app with REDUX.  
     Tri pl et verses Diga da is all it takes to change 1 2 3 into the familiar reel of an Irish jig “Trip pl let Trip pl let Trip pl let = a jig.  It can also be Waltz (a mysql db with js and html)
     Diga da is a march. Da Da Da Digada  Digada = the imperial march from Star wars, miles off from the waltz or the reel. 
     
-*If the music new student cannot read the difference in the sheet music,* sending them back home to practice without demonstrating the difference, actually make the corrections harder over time.  Because the student is practicing, creating muscle memory; ingraining wrong muscle memory over and over again  *It will be harder to root out.*  
+*If the music new student cannot read the difference in the sheet music,* sending them back home to practice without demonstrating the difference, actually make the corrections harder over time.  Because the student is practicing, creating muscle memory; ingraining wrong muscle memory over and over again   *It will be harder to root out.*  
 Practice alone does not make a perfect performance
 
 **Practice does not make perfect.**  Perfect practice makes perfect execution. The practice has to be nurtured, corrected early, reinforced, and critiqued.  That makes good practices, good learning connection, and good product.
@@ -31,7 +31,8 @@ The water is knowledge. You can bring the students to the water’s edge, you ca
 
 If a student does not want to learn, does not have the interest or the drive, then nothing the instructor can do will make a difference. 
 
-To the indiffernt or uninterested, giving the direct answer to the question will make no difference.  Playing or singing the part to the novice musician will not make the changes if they don’t internalize it in practice.  *Taking the horse to the river’s edge won’t save it if it won’t drink*
+To the indiffernt or uninterested, giving the direct answer to the question will make no difference.  Playing or singing the part to the novice musician will not make the changes if they don’t internalize it in practice.  
+*Taking the horse to the river’s edge won’t save it if it won’t drink*
 
 Giving a thirsty student a map to the water, **(the same map that the student needs help reading won’t help without correcting the issues.)**  
 By telling the student its’ all in there, go back and review your notes, does not help the student.  
@@ -55,14 +56,17 @@ Consequently, the recursive nature of the question-answer-response loop causes f
 
 ## The water is the answer.  *THE WATER IS THE ANSWER*
 
-What the loop misses are teaching moments.  It also misses the mark of what the answer is.  **The water is the answer./ The solution to the programing question is TO DIRECTLY ANSWER THE QUESTION**  
+What the loop misses are teaching moments.  It also misses the mark of what the answer is:  **The water is the answer.**
+**The solution to the programing question is**
+  * **TO DIRECTLY ANSWER THE QUESTION**  
 
 We all want to drink from the river of knowledge.  The dedicated student is going to drink, retrace the steps (maybe small steps at first from the water’s edge) but will complete the path backwards and forwards to the water until it can be completed in the dark, without a map.
 
 The music student, will practice over and over again to get the performance right, if they can hear the difference, and know what the right way sounds like, *and ingrain the right way.*
 
-### **You can give the programming student the solution to an exercise.**  
-You can point directly to the error, and it’s ok.  (IT IS A CHOICE, a choice to teach or not)
+### **You *can* give the programming student the solution to an exercise.**  
+You can point directly to the error, and it’s ok.  
+(IT IS A CHOICE, a choice to teach or not)
 
 **Because the real student will rework that point, backwards and forwards, for ownership and knowledge.** 
 
@@ -77,12 +81,13 @@ You can point directly to the error, and it’s ok.  (IT IS A CHOICE, a choice t
 If you have a student that is struggling:
 
   * the student shows they are putting in the time, 
-  * they are asking for a drink of the water or asking you to sing the part , asking for a problems solution –
+  * they are asking for a drink of the water or asking you to sing the part, or asking for a problem's solution –
     * ## just do it.  
     
 *They aren’t stealing, they paid for the lesson..*  
 
-If however you feel that it is pedagogically incorrect to give a solution to a problem, then don’t chide the student for asking for help.  Just be open, honest, and upfront; communicate clearly the answers are not to be found here.  
+If however you feel that it is pedagogically incorrect to give a solution to a problem, then don’t chide the student for asking for help.  
+Just be open, honest, and upfront; communicate clearly the answers are not to be found here.  Google it.
 
 The student will have to find another place to learn, and the resentment level on both parties will be remedied.
 
